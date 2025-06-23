@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "species": "Σαργός",
+    "lat": 37.528,
+    "lng": 25.158,
+    "probability": "Υψηλή",
+    "depth": "1-3m",
+    "access": "Από στεριά",
+    "hour": "Σούρουπο",
+    "lrf_friendly": true
+  },
+  {
+    "id": 2,
+    "species": "Μελανούρι",
+    "lat": 37.535,
+    "lng": 25.17,
+    "probability": "Μέτρια",
+    "depth": "3-5m",
+    "access": "Από βράχια",
+    "hour": "Πρωί",
+    "lrf_friendly": true
+  },
+  {
+    "id": 3,
+    "species": "Λούτσος",
+    "lat": 37.52,
+    "lng": 25.165,
+    "probability": "Χαμηλή",
+    "depth": "5-10m",
+    "access": "Από βάρκα",
+    "hour": "Νύχτα",
+    "lrf_friendly": false
+  }
+]
